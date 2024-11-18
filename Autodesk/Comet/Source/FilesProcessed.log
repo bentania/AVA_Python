@@ -1,0 +1,15 @@
+2024-08-05 16:28:11,207 - INFO - Logging started.
+2024-08-05 16:28:11,430 - INFO - %SystemDrive% - Data successfully written to C:\xampp\htdocs\Autodesk\Comet\Source\%SystemDrive%.xlsx
+2024-08-05 16:28:11,430 - INFO - %SystemDrive% - Total words in selected records Source column: 0
+2024-08-05 16:28:11,563 - WARNING - de - test1 - Column "Score" not found in DataFrame.
+2024-08-05 16:28:11,581 - WARNING - de - test2 - Column "Score" not found in DataFrame.
+2024-08-05 16:28:11,725 - INFO - de - Data successfully written to C:\xampp\htdocs\Autodesk\Comet\Source\de.xlsx
+2024-08-05 16:28:11,725 - INFO - de - Total words in selected records Source column: 6031
+2024-08-05 16:28:11,820 - WARNING - it - test1 - Column "Score" not found in DataFrame.
+2024-08-05 16:28:11,836 - WARNING - it - test2 - Column "Score" not found in DataFrame.
+2024-08-05 16:28:11,959 - INFO - it - Data successfully written to C:\xampp\htdocs\Autodesk\Comet\Source\it.xlsx
+2024-08-05 16:28:11,959 - INFO - it - Total words in selected records Source column: 6422
+2024-08-05 16:28:12,052 - WARNING - zh - test1 - Column "Score" not found in DataFrame.
+2024-08-05 16:28:12,071 - WARNING - zh - test2 - Column "Score" not found in DataFrame.
+2024-08-05 16:28:12,214 - INFO - zh - Data successfully written to C:\xampp\htdocs\Autodesk\Comet\Source\zh.xlsx
+2024-08-05 16:28:12,214 - INFO - zh - Total words in selected records Source column: 6990

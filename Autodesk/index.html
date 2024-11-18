@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON File Comparison</title>
+</head>
+<body>
+
+<h2>Select Folder and Comparison Options</h2>
+<form action="run_python.php" method="post" enctype="multipart/form-data">
+    <!-- Folder Selection -->
+    <label for="folder">Select Folder with JSON Files:</label><br>
+    <input type="file" id="folder" name="folder[]" webkitdirectory multiple><br><br>
+
+    <!-- Comparison Options -->
+    <label for="comparison">Select Comparison Pairs:</label><br>
+    <input type="checkbox" id="microsoft" name="comparison[]" value="microsoft">
+    <label for="microsoft">Microsoft</label><br>
+    <input type="checkbox" id="microsoft-custom" name="comparison[]" value="microsoft-custom">
+    <label for="microsoft-custom">Microsoft-Custom</label><br>
+    <input type="checkbox" id="autodesk-nmt" name="comparison[]" value="autodesk-nmt">
+    <label for="autodesk-nmt">Autodesk-NMT</label><br><br>
+
+    <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>

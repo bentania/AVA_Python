@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Select and Process Folder</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body>
+    <h2>Select and Process Folder</h2>
+
+    <button id="selectFolderBtn">Select Folder and Process</button>
+
+    <script>
+        $(document).ready(function() {
+            $("#selectFolderBtn").click(function() {
+                $.ajax({
+                    type: "GET",
+                    url: "http://localhost/cgi-bin/select_folder.py",
+                    success: function(response) {
+                        if (response.status === "success") {
+                            alert("Processing completed for folder: " + response.base_folder);
+                        } else {
+                            alert("Failed to process folder: " + response.message);
+                        }
+                    },
+                    error: function(xhr, status, error) {
+                        alert("An error occurred: " + error);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
