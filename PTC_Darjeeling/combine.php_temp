@@ -1,0 +1,74 @@
+<?php
+// Mapping of language codes to their corresponding header names
+$language_files = [
+    "CN" => "Chinese (PRC)",
+    "TW" => "Chinese (Taiwan)",
+    "FR" => "French (France)",
+    "DE" => "German (Germany)",
+    "JA" => "Japanese",
+    "ES" => "Spanish (Spain)"
+];
+
+$input_directory = "Outputs/";
+$output_file = "Outputs/combined_languages.txt";
+
+// Prepare header row
+$headers = array_merge(["English (United States)"], array_values($language_files));
+
+$translations = [];
+$total_lines = 0;
+$total_unique_keys = 0;
+$unique_keys_per_file = []; // Array to store unique keys (records) per language file
+
+// Process all language files
+foreach ($language_files as $lang_code => $header) {
+    $file_pattern = $input_directory . "*_" . $lang_code . ".txt";
+    $file_paths = glob($file_pattern);
+    
+    $unique_keys_count = 0; // Initialize unique keys count for current language file
+    
+    foreach ($file_paths as $file_path) {
+        if (($handle = fopen($file_path, "r")) !== FALSE) {
+            while (($row = fgetcsv($handle, 0, "\t")) !== FALSE) {
+                if (!empty($row)) {
+                    $key = $row[0];
+                    $value = isset($row[1]) ? $row[1] : '';
+
+                    if (!isset($translations[$key])) {
+                        $translations[$key] = array_fill_keys($headers, '');
+                        $translations[$key]["English (United States)"] = $key;
+                        $total_unique_keys++;
+                    }
+                    $translations[$key][$header] = $value;
+                    $unique_keys_count++;
+                }
+            }
+            fclose($handle);
+        }
+        $file_lines = count(file($file_path, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES));
+        $total_lines += $file_lines;
+        echo "Processed $file_lines lines from $file_path.\n";
+    }
+    
+    // Store unique keys count for current language file
+    $unique_keys_per_file[$lang_code] = $unique_keys_count;
+}
+
+// Write the combined translations to the output file
+if (($handle = fopen($output_file, "w")) !== FALSE) {
+    fputcsv($handle, $headers);
+    foreach ($translations as $values) {
+        fputcsv($handle, $values);
+    }
+    fclose($handle);
+}
+
+// Display total unique keys (records) for each language file
+echo "Total unique keys (records) per language file:\n";
+foreach ($unique_keys_per_file as $lang_code => $count) {
+    echo "$lang_code: $count\n";
+}
+
+echo "Combined file created at $output_file with all languages included.\n";
+echo "Total lines in source files: $total_lines\n";
+echo "Total unique keys (records) in combined file (excluding header): $total_unique_keys\n";
