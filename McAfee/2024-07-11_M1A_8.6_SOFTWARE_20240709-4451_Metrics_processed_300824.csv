@@ -1,0 +1,282 @@
+File,Target language,Words total count,Words non-translatable,Words ICE match,Words leveraged match,Words 95-99 fuzzy match,Words 85-94 fuzzy match,Words 75-84 fuzzy match,Words Machine translation,Words repeat,Words 95-99 fuzzy repeat,Words 85-94 fuzzy repeat,Words 75-84 fuzzy repeat,Words no matching,Weighted Words,Cost
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Arabic (United Arab Emirates),1908,0,1892,0,2,0,0,0,3,0,0,0,11,12,2.53
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Arabic (United Arab Emirates),1820,0,1808,3,0,0,0,0,2,0,0,0,7,8,1.68
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Arabic (United Arab Emirates),783,0,649,8,8,0,4,0,66,0,0,0,48,59,12.43
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Arabic (United Arab Emirates),7119,0,7091,3,0,0,0,0,11,0,0,0,14,15,3.16
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Arabic (United Arab Emirates),560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.21
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Arabic (United Arab Emirates),175,0,150,0,0,0,0,0,0,0,0,0,25,25,5.27
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Arabic (United Arab Emirates),492,0,480,0,0,0,0,0,12,0,0,0,0,1,0.21
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Arabic (United Arab Emirates),661,0,505,33,0,18,10,0,37,0,0,0,58,75,15.79
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Arabic (United Arab Emirates),1529,0,1490,0,0,0,0,0,39,0,0,0,0,4,0.84
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Arabic (United Arab Emirates),2675,0,2662,0,0,0,0,0,5,0,0,0,8,8,1.68
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Arabic (United Arab Emirates),2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,11.79
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Arabic (United Arab Emirates),5145,0,5080,6,0,5,15,0,23,0,0,0,16,28,5.9
+Localizable.strings,Arabic (United Arab Emirates),25298,0,24822,11,0,29,80,0,61,0,0,0,295,351,73.92
+app_store_string.xml,Arabic (United Arab Emirates),24,0,0,0,0,0,0,0,0,0,0,0,24,24,5.05
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Chinese (Simplified),1908,0,1895,0,2,0,0,0,0,0,0,0,11,12,1.48
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Chinese (Simplified),1820,0,1810,3,0,0,0,0,0,0,0,0,7,7,0.86
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Chinese (Simplified),783,0,659,8,8,0,0,0,62,0,0,0,46,55,6.78
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Chinese (Simplified),7119,0,7091,3,0,0,0,0,11,0,0,0,14,15,1.85
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Chinese (Simplified),560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.12
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Chinese (Simplified),175,0,150,0,0,0,0,0,0,0,0,0,25,25,3.08
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Chinese (Simplified),492,0,480,0,0,0,0,0,12,0,0,0,0,1,0.12
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Chinese (Simplified),661,0,505,33,0,18,10,0,37,0,0,0,58,75,9.24
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Chinese (Simplified),1529,0,1492,0,0,0,0,0,37,0,0,0,0,4,0.49
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Chinese (Simplified),2675,0,2662,0,0,0,0,0,5,0,0,0,8,8,0.99
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Chinese (Simplified),2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,6.9
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Chinese (Simplified),5145,0,5106,6,0,5,15,0,11,0,0,0,2,13,1.6
+Localizable.strings,Chinese (Simplified),25298,0,24850,11,0,29,77,0,53,0,0,0,278,332,40.9
+app_store_string.xml,Chinese (Simplified),24,0,0,0,0,0,0,0,0,0,0,0,24,24,2.96
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Chinese (Traditional),1908,0,1897,0,0,0,0,0,0,0,0,0,11,11,1.7
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Chinese (Traditional),1820,0,1810,3,0,0,0,0,0,0,0,0,7,7,1.08
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Chinese (Traditional),783,0,649,8,8,0,4,0,66,0,0,0,48,59,9.12
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Chinese (Traditional),7119,0,7091,3,0,0,0,0,11,0,0,0,14,15,2.32
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Chinese (Traditional),560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.15
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Chinese (Traditional),175,0,150,0,0,0,0,0,0,0,0,0,25,25,3.86
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Chinese (Traditional),492,0,480,0,0,0,0,0,12,0,0,0,0,1,0.15
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Chinese (Traditional),661,0,505,33,0,18,10,0,37,0,0,0,58,75,11.59
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Chinese (Traditional),1529,0,1492,0,0,0,0,0,37,0,0,0,0,4,0.62
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Chinese (Traditional),2675,0,2662,0,0,0,0,0,5,0,0,0,8,8,1.24
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Chinese (Traditional),2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,8.66
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Chinese (Traditional),5145,0,5103,6,0,5,15,0,14,0,0,0,2,13,2.01
+Localizable.strings,Chinese (Traditional),25298,0,24847,11,0,32,77,0,53,0,0,0,278,333,51.48
+app_store_string.xml,Chinese (Traditional),24,0,0,0,0,0,0,0,0,0,0,0,24,24,3.71
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Croatian,1908,0,1897,0,0,0,0,0,0,0,0,0,11,11,2.32
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Croatian,1820,0,1810,3,0,0,0,0,0,0,0,0,7,7,1.47
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Croatian,783,0,659,8,8,0,0,0,62,0,0,0,46,55,11.58
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Croatian,7119,0,7091,3,0,0,0,0,11,0,0,0,14,15,3.16
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Croatian,560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.21
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Croatian,175,0,150,0,0,0,0,0,0,0,0,0,25,25,5.27
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Croatian,492,0,480,0,0,0,0,0,12,0,0,0,0,1,0.21
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Croatian,661,0,505,33,0,18,10,0,37,0,0,0,58,75,15.79
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Croatian,1529,0,1492,0,0,0,0,0,37,0,0,0,0,4,0.84
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Croatian,2675,0,2646,0,0,0,0,0,5,0,0,0,24,24,5.05
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Croatian,2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,11.79
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Croatian,5145,0,5106,6,0,5,15,0,11,0,0,0,2,13,2.74
+Localizable.strings,Croatian,25298,0,24850,11,0,29,77,0,53,0,0,0,278,332,69.92
+app_store_string.xml,Croatian,24,0,0,0,0,0,0,0,0,0,0,0,24,24,5.05
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Czech,1908,0,1897,0,0,0,0,0,0,0,0,0,11,11,2.01
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Czech,1820,0,1810,3,0,0,0,0,0,0,0,0,7,7,1.28
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Czech,783,0,659,8,8,0,0,0,62,0,0,0,46,55,10.04
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Czech,7119,0,7091,3,0,0,0,0,11,0,0,0,14,15,2.74
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Czech,560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.18
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Czech,175,0,150,0,0,0,0,0,0,0,0,0,25,25,4.57
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Czech,492,0,480,0,0,0,0,0,12,0,0,0,0,1,0.18
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Czech,661,0,505,33,0,18,10,0,37,0,0,0,58,75,13.7
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Czech,1529,0,1492,0,0,0,0,0,37,0,0,0,0,4,0.73
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Czech,2675,0,2662,0,0,0,0,0,5,0,0,0,8,8,1.46
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Czech,2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,10.23
+Localizable.strings,Czech,25298,0,24850,11,0,29,77,0,53,0,0,0,278,332,60.62
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Czech,5145,0,5106,6,0,5,15,0,11,0,0,0,2,13,2.37
+app_store_string.xml,Czech,24,0,0,0,0,0,0,0,0,0,0,0,24,24,4.38
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Danish,1908,0,1897,0,0,0,0,0,0,0,0,0,11,11,2.5
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Danish,1820,0,1810,3,0,0,0,0,0,0,0,0,7,7,1.59
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Danish,783,0,659,8,8,0,0,0,62,0,0,0,46,55,12.51
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Danish,7119,0,7091,3,0,0,0,0,11,0,0,0,14,15,3.41
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Danish,560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.23
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Danish,175,0,150,0,0,0,0,0,0,0,0,0,25,25,5.68
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Danish,492,0,480,0,0,0,0,0,12,0,0,0,0,1,0.23
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Danish,661,0,505,33,0,18,10,0,37,0,0,0,58,75,17.05
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Danish,1529,0,1492,0,0,0,0,0,37,0,0,0,0,4,0.91
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Danish,2675,0,2662,0,0,0,0,0,5,0,0,0,8,8,1.82
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Danish,2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,12.73
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Danish,5145,0,5106,6,0,5,15,0,11,0,0,0,2,13,2.96
+Localizable.strings,Danish,25298,0,24850,11,0,29,77,0,53,0,0,0,278,332,75.5
+app_store_string.xml,Danish,24,0,0,0,0,0,0,0,0,0,0,0,24,24,5.46
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Finnish,1908,0,1895,0,2,0,0,0,0,0,0,0,11,12,2.73
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Finnish,1820,0,1810,3,0,0,0,0,0,0,0,0,7,7,1.59
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Finnish,783,0,659,8,8,0,0,0,62,0,0,0,46,55,12.51
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Finnish,7119,0,7091,3,0,0,0,0,11,0,0,0,14,15,3.41
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Finnish,560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.23
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Finnish,175,0,150,0,0,0,0,0,0,0,0,0,25,25,5.68
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Finnish,492,0,480,0,0,0,0,0,12,0,0,0,0,1,0.23
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Finnish,661,0,505,33,0,18,10,0,37,0,0,0,58,75,17.05
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Finnish,1529,0,1492,0,0,0,0,0,37,0,0,0,0,4,0.91
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Finnish,2675,0,2662,0,0,0,0,0,5,0,0,0,8,8,1.82
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Finnish,2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,12.73
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Finnish,5145,0,5106,6,0,5,15,0,11,0,0,0,2,13,2.96
+Localizable.strings,Finnish,25298,0,24850,11,0,29,77,0,53,0,0,0,278,332,75.5
+app_store_string.xml,Finnish,24,0,0,0,0,0,0,0,0,0,0,0,24,24,5.46
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Greek,1908,0,1897,0,0,0,0,0,0,0,0,0,11,11,2.12
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Greek,1820,0,1810,3,0,0,0,0,0,0,0,0,7,7,1.35
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Greek,783,0,659,8,8,0,0,0,62,0,0,0,46,55,10.59
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Greek,7119,0,7091,3,0,0,0,0,11,0,0,0,14,15,2.89
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Greek,560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.19
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Greek,175,0,150,0,0,0,0,0,0,0,0,0,25,25,4.81
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Greek,492,0,480,0,0,0,0,0,12,0,0,0,0,1,0.19
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Greek,661,0,505,33,0,18,10,0,37,0,0,0,58,75,14.45
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Greek,1529,0,1492,0,0,0,0,0,37,0,0,0,0,4,0.77
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Greek,2675,0,2662,0,0,0,0,0,5,0,0,0,8,8,1.54
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Greek,2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,10.79
+Localizable.strings,Greek,25298,0,24850,11,0,29,77,0,53,0,0,0,278,332,63.94
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Greek,5145,0,5106,6,0,5,15,0,11,0,0,0,2,13,2.5
+app_store_string.xml,Greek,24,0,0,0,0,0,0,0,0,0,0,0,24,24,4.62
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Hebrew (Israel),1908,0,1893,0,0,0,0,0,2,0,0,0,13,13,2.61
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Hebrew (Israel),1820,0,1810,3,0,0,0,0,0,0,0,0,7,7,1.4
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Hebrew (Israel),783,0,659,8,8,0,0,0,62,0,0,0,46,55,11.03
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Hebrew (Israel),7119,0,7091,3,0,0,0,0,11,0,0,0,14,15,3.01
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Hebrew (Israel),560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.2
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Hebrew (Israel),175,0,150,0,0,0,0,0,0,0,0,0,25,25,5.01
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Hebrew (Israel),492,0,480,0,0,0,0,0,12,0,0,0,0,1,0.2
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Hebrew (Israel),661,0,505,33,0,18,10,0,37,0,0,0,58,75,15.04
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Hebrew (Israel),1529,0,1492,0,0,0,0,0,37,0,0,0,0,4,0.8
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Hebrew (Israel),2675,0,2662,0,0,0,0,0,5,0,0,0,8,8,1.6
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Hebrew (Israel),2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,11.23
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Hebrew (Israel),5145,0,5106,6,0,5,15,0,11,0,0,0,2,13,2.61
+Localizable.strings,Hebrew (Israel),25298,0,24848,11,0,26,80,0,53,0,0,0,280,334,66.97
+app_store_string.xml,Hebrew (Israel),24,0,0,0,0,0,0,0,0,0,0,0,24,24,4.81
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Hindi (India),1908,0,1897,0,0,0,0,0,0,0,0,0,11,11,2.01
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Hindi (India),1820,0,1810,0,0,0,0,0,3,0,0,0,7,7,1.28
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Hindi (India),783,0,659,4,8,0,0,0,62,0,0,0,50,59,10.77
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Hindi (India),7119,0,7091,0,0,0,0,0,14,0,0,0,14,15,2.74
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Hindi (India),560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.18
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Hindi (India),175,0,150,0,0,0,0,0,0,0,0,0,25,25,4.57
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Hindi (India),492,2,4,79,19,8,10,0,242,0,0,0,128,172,31.41
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Hindi (India),661,0,505,13,0,18,0,0,57,0,0,0,68,80,14.61
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Hindi (India),1529,0,1492,0,0,0,0,0,37,0,0,0,0,4,0.73
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Hindi (India),2675,0,2662,0,0,0,0,0,5,0,0,0,8,8,1.46
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Hindi (India),2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,10.23
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Hindi (India),5145,0,5106,0,0,5,15,0,17,0,0,0,2,13,2.37
+app_store_string.xml,Hindi (India),24,0,0,0,0,0,0,0,0,0,0,0,24,24,4.38
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Hungarian,1908,0,1897,0,0,0,0,0,0,0,0,0,11,11,2.21
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Hungarian,1820,0,1810,3,0,0,0,0,0,0,0,0,7,7,1.4
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Hungarian,783,0,659,8,8,0,0,0,62,0,0,0,46,55,11.03
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Hungarian,7119,0,7091,3,0,0,0,0,11,0,0,0,14,15,3.01
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Hungarian,560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.2
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Hungarian,175,0,150,0,0,0,0,0,0,0,0,0,25,25,5.01
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Hungarian,492,0,480,0,0,0,0,0,12,0,0,0,0,1,0.2
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Hungarian,661,0,505,33,0,18,10,0,37,0,0,0,58,75,15.04
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Hungarian,1529,0,1492,0,0,0,0,0,37,0,0,0,0,4,0.8
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Hungarian,2675,0,2662,0,0,0,0,0,5,0,0,0,8,8,1.6
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Hungarian,2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,11.23
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Hungarian,5145,0,5106,6,0,5,15,0,11,0,0,0,2,13,2.61
+Localizable.strings,Hungarian,25298,0,24850,11,0,29,77,0,53,0,0,0,278,332,66.57
+app_store_string.xml,Hungarian,24,0,0,0,0,0,0,0,0,0,0,0,24,24,4.81
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Japanese,1908,0,1897,0,0,0,0,0,0,0,0,0,11,11,2.5
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Japanese,1820,0,1810,3,0,0,0,0,0,0,0,0,7,7,1.59
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Japanese,783,0,659,8,8,0,0,0,62,0,0,0,46,55,12.49
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Japanese,7119,0,7091,3,0,0,0,0,11,0,0,0,14,15,3.41
+20240709_PPS/source/modules/identity-insurance-restoration/src/main/res/values/strings.xml,Japanese,618,0,615,3,0,0,0,0,0,0,0,0,0,0,0.0
+20240709_PPS/source/modules/online-account-cleanup-ui/src/main/res/values/strings.xml,Japanese,3320,0,3305,4,0,0,0,0,0,0,0,0,11,11,2.5
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Japanese,560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.23
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Japanese,175,0,150,0,0,0,0,0,0,0,0,0,25,25,5.67
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Japanese,492,0,480,0,0,0,0,0,12,0,0,0,0,1,0.23
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Japanese,661,0,505,33,0,18,10,0,37,0,0,0,58,75,17.03
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Japanese,1529,0,1492,0,0,0,0,0,37,0,0,0,0,4,0.91
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Japanese,2675,0,2662,0,0,0,0,0,5,0,0,0,8,8,1.82
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Japanese,2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,12.71
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Japanese,5145,0,5103,9,0,5,15,0,11,0,0,0,2,13,2.95
+Localizable.strings,Japanese,25298,0,24850,11,0,29,77,0,53,0,0,0,278,332,75.36
+app_store_string.xml,Japanese,24,0,0,0,0,0,0,0,0,0,0,0,24,24,5.45
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Korean,1908,0,1897,0,0,0,0,0,0,0,0,0,11,11,2.02
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Korean,1820,0,1810,3,0,0,0,0,0,0,0,0,7,7,1.29
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Korean,783,0,659,8,8,0,0,0,62,0,0,0,46,55,10.1
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Korean,7119,0,7091,3,0,0,0,0,11,0,0,0,14,15,2.76
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Korean,560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.18
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Korean,175,0,150,0,0,0,0,0,0,0,0,0,25,25,4.59
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Korean,492,0,480,0,0,0,0,0,12,0,0,0,0,1,0.18
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Korean,661,0,505,33,0,18,10,0,37,0,0,0,58,75,13.78
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Korean,1529,0,1492,0,0,0,0,0,37,0,0,0,0,4,0.73
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Korean,2675,0,2662,0,0,0,0,0,5,0,0,0,8,8,1.47
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Korean,2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,10.29
+Localizable.strings,Korean,25298,0,24850,11,0,29,77,0,53,0,0,0,278,332,60.99
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Korean,5145,0,5106,6,0,5,15,0,11,0,0,0,2,13,2.39
+app_store_string.xml,Korean,24,0,0,0,0,0,0,0,0,0,0,0,24,24,4.41
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Norwegian,1908,0,1897,0,0,0,0,0,0,0,0,0,11,11,2.5
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Norwegian,1820,0,1810,3,0,0,0,0,0,0,0,0,7,7,1.59
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Norwegian,783,0,659,8,8,0,0,0,62,0,0,0,46,55,12.51
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Norwegian,7119,0,7091,3,0,0,0,0,11,0,0,0,14,15,3.41
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Norwegian,560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.23
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Norwegian,175,0,150,0,0,0,0,0,0,0,0,0,25,25,5.68
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Norwegian,492,0,480,0,0,0,0,0,12,0,0,0,0,1,0.23
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Norwegian,661,0,505,33,0,18,10,0,37,0,0,0,58,75,17.05
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Norwegian,1529,0,1492,0,0,0,0,0,37,0,0,0,0,4,0.91
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Norwegian,2675,0,2662,0,0,0,0,0,5,0,0,0,8,8,1.82
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Norwegian,2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,12.73
+Localizable.strings,Norwegian,25298,0,24850,11,0,29,77,0,53,0,0,0,278,332,75.5
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Norwegian,5145,0,5106,6,0,5,15,0,11,0,0,0,2,13,2.96
+app_store_string.xml,Norwegian,24,0,0,0,0,0,0,0,0,0,0,0,24,24,5.46
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Polish,1908,0,1897,0,0,0,0,0,0,0,0,0,11,11,2.01
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Polish,1820,0,1810,3,0,0,0,0,0,0,0,0,7,7,1.28
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Polish,783,0,659,8,8,0,0,0,62,0,0,0,46,55,10.04
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Polish,7119,0,7091,3,0,0,0,0,11,0,0,0,14,15,2.74
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Polish,560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.18
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Polish,175,0,150,0,0,0,0,0,0,0,0,0,25,25,4.57
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Polish,492,0,480,0,0,0,0,0,12,0,0,0,0,1,0.18
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Polish,661,0,505,33,0,18,10,0,37,0,0,0,58,75,13.7
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Polish,1529,0,1492,0,0,0,0,0,37,0,0,0,0,4,0.73
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Polish,2675,0,2662,0,0,0,0,0,5,0,0,0,8,8,1.46
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Polish,2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,10.23
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Polish,5145,0,5106,6,0,5,15,0,11,0,0,0,2,13,2.37
+Localizable.strings,Polish,25298,0,24850,11,0,26,80,0,53,0,0,0,278,332,60.62
+app_store_string.xml,Polish,24,0,0,0,0,0,0,0,0,0,0,0,24,24,4.38
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Russian,1908,0,1895,0,2,0,0,0,0,0,0,0,11,12,1.94
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Russian,1820,0,1810,3,0,0,0,0,0,0,0,0,7,7,1.13
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Russian,783,0,659,8,8,0,0,0,62,0,0,0,46,55,8.87
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Russian,7119,0,7091,3,0,0,0,0,11,0,0,0,14,15,2.42
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Russian,560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.16
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Russian,175,0,150,0,0,0,0,0,0,0,0,0,25,25,4.03
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Russian,492,0,480,0,0,0,0,0,12,0,0,0,0,1,0.16
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Russian,661,0,505,33,0,18,10,0,37,0,0,0,58,75,12.1
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Russian,1529,0,1492,0,0,0,0,0,37,0,0,0,0,4,0.65
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Russian,2675,0,2662,0,0,0,0,0,5,0,0,0,8,8,1.29
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Russian,2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,9.03
+Localizable.strings,Russian,25298,0,24850,11,0,29,77,0,53,0,0,0,278,332,53.55
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Russian,5145,0,5106,6,0,5,15,0,11,0,0,0,2,13,2.1
+app_store_string.xml,Russian,24,0,0,0,0,0,0,0,0,0,0,0,24,24,3.87
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Serbian - Serbia (Latin),1908,0,1893,2,2,0,0,0,0,0,0,0,11,12,2.57
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Serbian - Serbia (Latin),1820,0,1810,3,0,0,0,0,0,0,0,0,7,7,1.5
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Serbian - Serbia (Latin),783,0,659,8,8,0,0,0,62,0,0,0,46,55,11.77
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Serbian - Serbia (Latin),7119,0,7091,3,0,0,0,0,11,0,0,0,14,15,3.21
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Serbian - Serbia (Latin),560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.21
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Serbian - Serbia (Latin),175,0,150,0,0,0,0,0,0,0,0,0,25,25,5.35
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Serbian - Serbia (Latin),492,0,480,0,0,0,0,0,12,0,0,0,0,1,0.21
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Serbian - Serbia (Latin),661,0,505,33,0,18,10,0,37,0,0,0,58,75,16.05
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Serbian - Serbia (Latin),1529,0,1492,0,0,0,0,0,37,0,0,0,0,4,0.86
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Serbian - Serbia (Latin),2675,0,2662,0,0,0,0,0,5,0,0,0,8,8,1.71
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Serbian - Serbia (Latin),2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,11.98
+Localizable.strings,Serbian - Serbia (Latin),25298,0,24850,11,0,26,80,0,53,0,0,0,278,332,71.05
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Serbian - Serbia (Latin),5145,0,5106,6,0,5,15,0,11,0,0,0,2,13,2.78
+app_store_string.xml,Serbian - Serbia (Latin),24,0,0,0,0,0,0,0,0,0,0,0,24,24,5.14
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Slovak,1908,0,1897,0,0,0,0,0,0,0,0,0,11,11,2.16
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Slovak,1820,0,1810,3,0,0,0,0,0,0,0,0,7,7,1.37
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Slovak,783,0,659,8,8,0,0,0,62,0,0,0,46,55,10.78
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Slovak,7119,0,7091,3,0,0,0,0,11,0,0,0,14,15,2.94
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Slovak,560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.2
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Slovak,175,0,150,0,0,0,0,0,0,0,0,0,25,25,4.9
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Slovak,492,0,480,0,0,0,0,0,12,0,0,0,0,1,0.2
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Slovak,661,0,505,33,0,18,10,0,37,0,0,0,58,75,14.7
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Slovak,1529,0,1492,0,0,0,0,0,37,0,0,0,0,4,0.78
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Slovak,2675,0,2662,0,0,0,0,0,5,0,0,0,8,8,1.57
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Slovak,2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,10.98
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Slovak,5145,0,5106,6,0,5,15,0,11,0,0,0,2,13,2.55
+Localizable.strings,Slovak,25298,0,24850,11,0,26,80,0,53,0,0,0,278,332,65.07
+app_store_string.xml,Slovak,24,0,0,0,0,0,0,0,0,0,0,0,24,24,4.7
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Swedish,1908,0,1897,0,0,0,0,0,0,0,0,0,11,11,2.5
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Swedish,1820,0,1810,3,0,0,0,0,0,0,0,0,7,7,1.59
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Swedish,783,0,659,8,8,0,0,0,62,0,0,0,46,55,12.51
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Swedish,7119,0,7091,3,0,0,0,0,11,0,0,0,14,15,3.41
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Swedish,560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.23
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Swedish,175,0,150,0,0,0,0,0,0,0,0,0,25,25,5.68
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Swedish,492,0,480,0,0,0,0,0,12,0,0,0,0,1,0.23
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Swedish,661,0,505,33,0,18,10,0,37,0,0,0,58,75,17.05
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Swedish,1529,0,1492,0,0,0,0,0,37,0,0,0,0,4,0.91
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Swedish,2675,0,2662,0,0,0,0,0,5,0,0,0,8,8,1.82
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Swedish,2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,12.73
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Swedish,5145,0,5106,6,0,5,15,0,11,0,0,0,2,13,2.96
+Localizable.strings,Swedish,25298,0,24850,11,0,29,77,0,53,0,0,0,278,332,75.5
+app_store_string.xml,Swedish,24,0,0,0,0,0,0,0,0,0,0,0,24,24,5.46
+20240709_PPS/source/modules/activation/src/main/res/values/strings.xml,Turkish,1908,0,1897,0,0,0,0,0,0,0,0,0,11,11,2.01
+20240709_PPS/source/modules/billing-ui/src/main/res/values/strings.xml,Turkish,1820,0,1810,3,0,0,0,0,0,0,0,0,7,7,1.28
+20240709_PPS/source/modules/framework/src/main/res/values/strings.xml,Turkish,783,0,659,8,8,0,0,0,62,0,0,0,46,55,10.04
+20240709_PPS/source/modules/identity/src/main/res/values/strings.xml,Turkish,7119,0,7091,3,0,0,0,0,11,0,0,0,14,15,2.74
+20240709_PPS/source/modules/safebrowsingui/src/main/res/values/strings.xml,Turkish,560,0,551,0,0,0,0,0,9,0,0,0,0,1,0.18
+20240709_PPS/source/modules/site_advisor_ui/src/main/res/values/strings.xml,Turkish,175,0,150,0,0,0,0,0,0,0,0,0,25,25,4.57
+20240709_PPS/source/modules/smart_scan/src/main/res/values/strings.xml,Turkish,492,0,480,0,0,0,0,0,12,0,0,0,0,1,0.18
+20240709_PPS/source/modules/sms_phishing_ui/src/main/res/values/strings.xml,Turkish,661,0,505,33,0,18,10,0,37,0,0,0,58,75,13.7
+20240709_PPS/source/modules/usermanagement/src/main/res/values/strings.xml,Turkish,1529,0,1492,0,0,0,0,0,37,0,0,0,0,4,0.73
+20240709_PPS/source/modules/vpn-ui/src/main/res/values/strings.xml,Turkish,2675,0,2662,0,0,0,0,0,5,0,0,0,8,8,1.46
+20240709_PPS/source/modules/vsm-ui/src/main/res/values/strings.xml,Turkish,2019,0,1961,2,0,0,0,0,0,0,0,0,56,56,10.23
+Localizable.strings,Turkish,25298,0,24850,11,0,29,77,0,53,0,0,0,278,332,60.62
+20240709_PPS/source/ui/framework/src/main/res/values/strings.xml,Turkish,5145,0,5106,6,0,5,15,0,11,0,0,0,2,13,2.37
+app_store_string.xml,Turkish,24,0,0,0,0,0,0,0,0,0,0,0,24,24,4.38

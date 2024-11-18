@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>McAfee CSV Processor</title>
+    <style>
+        /* Ensure form elements are displayed vertically */
+        .form-group {
+            margin-bottom: 15px;
+        }
+    </style>
+    <script>
+        function autoSubmitForm() {
+            document.getElementById('csvForm').submit();
+        }
+    </script>
+</head>
+<body>
+    <h1>McAfee Wordcounts CSV File Processor</h1>
+    <form id="csvForm" action="process_csv.php" method="post" enctype="multipart/form-data">
+        
+        <div class="form-group">
+            <label>Select content type:</label><br>
+            <input type="radio" id="marketing" name="content_type" value="Marketing" checked>
+            <label for="marketing">Marketing</label><br>
+            <input type="radio" id="software" name="content_type" value="Software">
+            <label for="software">Software</label>
+        </div>
+
+        <div class="form-group">
+            <label for="input_file_memoq">Select memoQ CSV file:</label>
+            <input type="file" name="input_file_memoq" id="input_file_memoq" accept=".csv" onchange="autoSubmitForm()" required>
+        </div>
+
+        <div class="form-group">
+            <label for="input_file_xtm">Select XTM file:</label>
+            <input type="file" name="input_file_xtm" id="input_file_xtm" accept=".csv" onchange="autoSubmitForm()" required>
+        </div>
+
+        <! --<input type="submit" name="process_csv" value="Process memoQ CSV">
+        <! --<input type="submit" name="process_xtm" value="Process XTM CSV">
+    </form>
+</body>
+</html>
